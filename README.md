@@ -1,4 +1,4 @@
-# CaesarCipherBruteforce - CLI based
+# Caesar Cipher Bruteforce Algorithm - CLI based
 
 Using frequency analysis to break Caesar’s cipher. This is a brute force method that tests all the possible displacements and returns the most likely decryption of a text. Frequency analysis relies on the fact that some letters (or combination of letters) occur more in a language, regardless of the text size. More information about the algorithm here: https://ibmathsresources.com/2014/06/15/using-chi-squared-to-crack-codes/
 
